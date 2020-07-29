@@ -1,0 +1,49 @@
+
+
+body{
+  background-color: #fff;
+background-image:
+linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),
+linear-gradient(#eee .1em, transparent .1em);
+background-size: 100% 2.2em;
+  color: rgb(87, 88, 90);
+}
+.login-container{
+  width: 35%;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+p{
+  margin: 10px 0 !important;
+  font-weight: bold;
+}
+.heading{
+  font-style: italic;
+  color: rgb(115, 168, 168);
+}
+.lead{
+  text-decoration: underline;
+  cursor: pointer;
+}
+.fa-small{
+  font-size: 16px !important;
+}
+.btn-float{
+  float: left;
+  margin-right: 10px;
+}
+.img-small{
+  width: 180px;
+}
+.dashboard{
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(150, 175, 175);
+  width: 25%;
+  border-radius: 12px;
+  font-weight: bold;
+}
